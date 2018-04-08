@@ -5,7 +5,13 @@
   
 ## 迷路の図
 ![p1](https://github.com/ky-code/Mazegame/blob/master/picture/p1.png)  
-  
+【記号について】  
+"." 道  
+"#" 壁  
+"s" スタート  
+"g" ゴール  
+"@" プレイヤーの現在の位置  
+
 ## 操作について
 ![p2](https://github.com/ky-code/Mazegame/blob/master/picture/p2.png)  
   
