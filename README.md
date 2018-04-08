@@ -4,7 +4,7 @@
 言語はC++を使用しました。  
   
 ## 迷路の図
-![p1](https://github.com/ky-code/Mazegame/blob/master/picture/p1.png)  
+![p1](https://github.com/ky-code/Mazegame/blob/master/picture/p1.png)  
 【記号について】  
 "." 道  
 "#" 壁  
